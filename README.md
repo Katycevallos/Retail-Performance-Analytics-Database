@@ -69,6 +69,8 @@ Users cannot:
 
 ## Representation
 
+![ER Diagram](images/Diagram.png)
+
 ### Entities
 
 In this section you should answer the following questions:
